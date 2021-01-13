@@ -1,0 +1,20 @@
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.exe.config
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.exe
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.pdb
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csprojResolveAssemblyReference.cache
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Form1.resources
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Properties.Resources.resources
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.GenerateResource.Cache
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.CoreCompileInputs.cache
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.exe
+C:\Users\Angel Velazco\source\repos\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.exe.config
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.exe
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\bin\Debug\Proyecto8vo.pdb
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csprojResolveAssemblyReference.cache
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Form1.resources
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Properties.Resources.resources
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.GenerateResource.Cache
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.CoreCompileInputs.cache
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.exe
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
