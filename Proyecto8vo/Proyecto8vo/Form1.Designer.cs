@@ -42,6 +42,8 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
+            this.btn_irproductos = new System.Windows.Forms.Button();
+            this.btn_salir = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -121,27 +123,27 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 385);
+            this.button1.Location = new System.Drawing.Point(12, 398);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(126, 62);
+            this.button1.Size = new System.Drawing.Size(92, 49);
             this.button1.TabIndex = 9;
             this.button1.Text = "Agregar";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(144, 385);
+            this.button2.Location = new System.Drawing.Point(119, 398);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(126, 62);
+            this.button2.Size = new System.Drawing.Size(93, 49);
             this.button2.TabIndex = 10;
             this.button2.Text = "Modificar";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(276, 385);
+            this.button3.Location = new System.Drawing.Point(218, 398);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(126, 62);
+            this.button3.Size = new System.Drawing.Size(101, 49);
             this.button3.TabIndex = 11;
             this.button3.Text = "Eliminar";
             this.button3.UseVisualStyleBackColor = true;
@@ -164,11 +166,32 @@
             this.label5.TabIndex = 13;
             this.label5.Text = "8A Desarrolladores...";
             // 
+            // btn_irproductos
+            // 
+            this.btn_irproductos.Location = new System.Drawing.Point(335, 398);
+            this.btn_irproductos.Name = "btn_irproductos";
+            this.btn_irproductos.Size = new System.Drawing.Size(130, 49);
+            this.btn_irproductos.TabIndex = 14;
+            this.btn_irproductos.Text = "Ir a Productos";
+            this.btn_irproductos.UseVisualStyleBackColor = true;
+            // 
+            // btn_salir
+            // 
+            this.btn_salir.Location = new System.Drawing.Point(665, 367);
+            this.btn_salir.Name = "btn_salir";
+            this.btn_salir.Size = new System.Drawing.Size(92, 49);
+            this.btn_salir.TabIndex = 32;
+            this.btn_salir.Text = "Salir";
+            this.btn_salir.UseVisualStyleBackColor = true;
+            this.btn_salir.Click += new System.EventHandler(this.btn_salir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(783, 459);
+            this.Controls.Add(this.btn_salir);
+            this.Controls.Add(this.btn_irproductos);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -184,6 +207,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Módulo Clientes";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -207,6 +231,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button btn_irproductos;
+        private System.Windows.Forms.Button btn_salir;
     }
 }
 
