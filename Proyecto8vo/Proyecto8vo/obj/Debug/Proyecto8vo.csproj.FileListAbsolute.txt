@@ -19,3 +19,4 @@ C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Pr
 C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.exe
 C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
 C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Productos.resources
+C:\Users\Angel Velazco\Desktop\PROYECTO GIT\Proyecto8vo\Proyecto8vo\obj\Debug\Proyecto8vo.Categorias.resources
